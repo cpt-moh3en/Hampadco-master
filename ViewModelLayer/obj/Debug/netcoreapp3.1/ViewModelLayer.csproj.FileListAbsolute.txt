@@ -1,0 +1,12 @@
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\bin\Debug\netcoreapp3.1\ViewModelLayer.deps.json
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\bin\Debug\netcoreapp3.1\ViewModelLayer.dll
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\bin\Debug\netcoreapp3.1\ViewModelLayer.pdb
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csprojAssemblyReference.cache
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.AssemblyInfoInputs.cache
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.AssemblyInfo.cs
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csproj.CoreCompileInputs.cache
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csproj.CopyComplete
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.dll
+c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.pdb
