@@ -1,4 +1,8 @@
-﻿using System;
+﻿using System.Net.Http.Headers;
+using System.Net;
+using System.Threading.Tasks.Sources;
+using System.Net.WebSockets;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -11,7 +15,6 @@ using DataLayer.Entities;
 using DataLayer.Context;
 using ViewModelLayer.Entities;
 using System.Net.Http;
-
 using RestSharp;
 
 namespace hampadco.Controllers
@@ -48,43 +51,27 @@ namespace hampadco.Controllers
                     " + "\n" +
                                 @"    ""MerchantId"":""41837658"",
                     " + "\n" +
-                                @"    ""Amount"":""1000"",
-                    " + "\n" +
-                                @"    ""RedirectUrl"":""http://nikatak.ir""
+                                @"    ""Amount"":"+ vs.Amount +" ," + "\n" +
+                                @"    ""RedirectUrl"":""https://localhost:5001/Home/Verification""
                     " + "\n" +
             @"}";
-            // +vs.Amount+
             request.AddParameter("application/json", body, ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
             // Console.WriteLine(response.Content);
-            // var x = response;
-            // ViewBag.y= response ;
-            string x = response.Content;
-            // ViewBag.cr =  response.Content ;
             var token = response.Content.Split(",");
             var token1 = token[2].Split(":");
             var token2 = token1[1].Split(",");
             string token3 = token2[0].Replace("/", "").Replace("\"", "");
             
-
-            return RedirectToAction("p2" , new {token3 , x});
+            return RedirectToAction("p2" , new {token3});
         }
-
-        // public class Example
-        // {
-        //     public string Result { get; set; }
-        //     public long ExpirationDate { get; set; }
-        //     public string Token { get; set; }
-        //     public string ChannelId { get; set; }
-        //     public string UserId { get; set; }
-        // }
 
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Verification(var RefNum)
         {
             return View();
         }
@@ -94,14 +81,12 @@ namespace hampadco.Controllers
             return View();
         }
 
-        public IActionResult p2(string token3 , string x )
+        public IActionResult p2(string token3)
         {
-// string rc
-// object x
-ViewBag.y=token3;
-ViewBag.z=x;
+            ViewBag.x=token3;
             return View();
         }
+
         public IActionResult p3()
         {
             return View();

@@ -10,3 +10,15 @@ c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netco
 c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csproj.CopyComplete
 c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.dll
 c:\Users\MEDIA MARK\Desktop\sayan-master\Hampadco\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.pdb
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\bin\Debug\netcoreapp3.1\ViewModelLayer.deps.json
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\bin\Debug\netcoreapp3.1\ViewModelLayer.dll
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\bin\Debug\netcoreapp3.1\ViewModelLayer.pdb
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csprojAssemblyReference.cache
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.AssemblyInfoInputs.cache
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.AssemblyInfo.cs
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csproj.CoreCompileInputs.cache
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.csproj.CopyComplete
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.dll
+c:\Users\ms\Desktop\Hampadco-master\ViewModelLayer\obj\Debug\netcoreapp3.1\ViewModelLayer.pdb

@@ -1,3 +1,4 @@
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace ViewModelLayer.Entities
@@ -11,5 +12,7 @@ namespace ViewModelLayer.Entities
         public string UserName { get; set; }
         public string PassWord { get; set; }
         public int Amount { get; set; }
+        public string Token { get; set; }
+        public string Amount2 { get; set; }
     }
 }
